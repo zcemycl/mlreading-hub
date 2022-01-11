@@ -4,7 +4,7 @@
 * [Acceptance Rejection Sampling](notes/Acceptance-Rejection.ipynb)
 * [Inverse Transform](notes/Inverse-Transform-Sampling.ipynb)
 * [Importance Sampling](notes/ImportanceSampling.ipynb)
-* Dependent Sampling
+* [Dependent Sampling/Markovian Dice](notes/DependentSampling.ipynb)
 * Random Walk Metropolis
 * Metropolis-Hastings
 * Gibbs Sampling
