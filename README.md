@@ -2,6 +2,14 @@
 
 ### Probabilistic Machine Learning
 * [Acceptance Rejection Sampling](notes/Acceptance-Rejection.ipynb)
+* [Inverse Transform](notes/Inverse-Transform-Sampling.ipynb)
+* [Importance Sampling](notes/ImportanceSampling.ipynb)
+* Dependent Sampling
+* Random Walk Metropolis
+* Metropolis-Hastings
+* Gibbs Sampling
+* Hamitonian Monte Carlo (HMC)
+* Particle Filter (SMC)
 * [K Means](notes/K-Means.ipynb)
 * [Gaussian Mixture Models/EM algorithm](notes/EM-GMM2.ipynb)
 * Bayesian GMMs 
