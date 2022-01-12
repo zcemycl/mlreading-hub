@@ -5,7 +5,7 @@
 * [Inverse Transform](notes/Inverse-Transform-Sampling.ipynb)
 * [Importance Sampling](notes/ImportanceSampling.ipynb)
 * [Dependent Sampling/Markovian Dice](notes/DependentSampling.ipynb)
-* Random Walk Metropolis
+* [Random Walk Metropolis](notes/Random-Walk-Metropolis.ipynb)
 * Metropolis-Hastings
 * Gibbs Sampling
 * Hamitonian Monte Carlo (HMC)
