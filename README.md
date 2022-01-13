@@ -19,7 +19,6 @@
 * [Bayesian Polynomial Regression](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Probabilistic%20Machine%20Learning/Introduction%20to%20Probabilistic%20Machine%20Learning/Bayesian%20inference%20and%20prediction%20with%20finite%20regression%20models.ipynb)
 * Gaussian Process
 
-
 ### NLP
 
 ### Computer Vision
@@ -28,7 +27,7 @@
 
 ### Recommendation System
 * [Smoothing/Wilson Lower Bound](notes/rs_Rate-Popularity.ipynb)
-* Conjugate Priors
+* [Conjugate Priors/Online Learning](notes/rs_Conjugate-Prior.ipynb)
 * Page Rank
 * User-User Collaborative Filtering
 * Item-Item Collaborative Filtering
