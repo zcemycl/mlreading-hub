@@ -27,5 +27,11 @@
 ### Speech
 
 ### Recommendation System
+* [Smoothing/Wilson Lower Bound](notes/rs_Rate-Popularity.ipynb)
+* Conjugate Priors
+* Page Rank
+* User-User Collaborative Filtering
+* Item-Item Collaborative Filtering
+* Matrix Factorization
 
 ### Reinforcement Learning
