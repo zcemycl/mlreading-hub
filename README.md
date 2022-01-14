@@ -28,7 +28,7 @@
 ### Recommendation System
 * [Smoothing/Wilson Lower Bound](notes/rs_Rate-Popularity.ipynb)
 * [Conjugate Priors/Online Learning](notes/rs_Conjugate-Prior.ipynb)
-* Page Rank
+* [Page Rank](notes/rs_Page-Rank.ipynb)
 * User-User Collaborative Filtering
 * Item-Item Collaborative Filtering
 * Matrix Factorization
