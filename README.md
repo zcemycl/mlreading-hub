@@ -31,6 +31,9 @@
 * [Page Rank](notes/rs_Page-Rank.ipynb)
 * [User-User Collaborative Filtering](notes/rs_User-User-Collaborative-Filtering.ipynb)
 * Item-Item Collaborative Filtering
-* Matrix Factorization
+* [Matrix Factorization/Alternating Least Squares](notes/rs_Matrix-Factorization.ipynb)
+* Bayesian Matrix Factorization/Gibbs Sampling
+* Neural Network
+* Restricted Boltzmann Machines
 
 ### Reinforcement Learning
