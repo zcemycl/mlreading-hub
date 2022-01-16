@@ -19,12 +19,6 @@
 * [Bayesian Polynomial Regression](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Probabilistic%20Machine%20Learning/Introduction%20to%20Probabilistic%20Machine%20Learning/Bayesian%20inference%20and%20prediction%20with%20finite%20regression%20models.ipynb)
 * Gaussian Process
 
-### NLP
-
-### Computer Vision
-
-### Speech
-
 ### Recommendation System
 * [Smoothing/Wilson Lower Bound](notes/rs_Rate-Popularity.ipynb)
 * [Conjugate Priors/Online Learning](notes/rs_Conjugate-Prior.ipynb)
@@ -33,7 +27,16 @@
 * Item-Item Collaborative Filtering
 * [Matrix Factorization/Alternating Least Squares](notes/rs_Matrix-Factorization.ipynb)
 * Bayesian Matrix Factorization/Gibbs Sampling
-* [Embeddings](notes/rs_Embedding.ipynb)
+* [Embeddings](notes/rs_Embedding.ipynb)/[Embeddings-DNN](notes/rs_Deep-Neural-Network.ipynb)/[Inception-Residual-Network](notes/rs-Residual-Learning.ipynb)
+* Denoising Variational Autoencoders
 * Restricted Boltzmann Machines
+
+### NLP
+
+### Computer Vision
+
+### Speech
+
+
 
 ### Reinforcement Learning
