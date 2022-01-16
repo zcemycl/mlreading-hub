@@ -33,7 +33,7 @@
 * Item-Item Collaborative Filtering
 * [Matrix Factorization/Alternating Least Squares](notes/rs_Matrix-Factorization.ipynb)
 * Bayesian Matrix Factorization/Gibbs Sampling
-* Neural Network
+* [Embeddings](notes/rs_Embedding.ipynb)
 * Restricted Boltzmann Machines
 
 ### Reinforcement Learning
