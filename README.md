@@ -32,11 +32,29 @@
 * Restricted Boltzmann Machines
 
 ### NLP
+* [Seq2seq Hierarchical Labels Classification](https://github.com/zcemycl/seq2seq-labelladder)
 
 ### Computer Vision
+* [Calibration](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/calibration.ipynb)
+* [2D Homography](https://github.com/zcemycl/Robotics/blob/master/Perception/Logo%20Projection/LogoProjection.ipynb)
+* [Arm Camera Calibration](https://github.com/zcemycl/Robotics/blob/master/DobotMagic/calibration/utils.py)
+* [Variational Autoencoder](https://github.com/zcemycl/self-work/blob/master/VAE/VAE2.ipynb)
+* [Generative Adversarial Network](https://github.com/zcemycl/Matlab-GAN/blob/master/GAN/GAN.m)
+* [InfoGAN](https://github.com/zcemycl/Matlab-GAN/blob/master/InfoGAN/InfoGAN.m)
+* [Pix2pix](https://github.com/zcemycl/Matlab-GAN/blob/master/Pix2Pix/PIX2PIX.m)
+* [CycleGAN](https://github.com/zcemycl/Matlab-GAN/blob/master/CycleGAN/CycleGAN.m)
+* [Multi-task Network with Room-boundary-Guided Attention](https://github.com/zcemycl/TF2DeepFloorplan)
+
+### Reinforcement Learning
+* [Multi-Arm Bandits](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/rlread.ipynb)
+* [Policy Iteration](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/PolicyIteration.ipynb)
+* [Value Iteration](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/ValueIteration.ipynb)
+* [Monte Carlo Methods/Blackjack](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/blackjack.ipynb)
+* [SARSA](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/sarsa.ipynb)
+* [Q-Learning](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/q-learning.ipynb)
 
 ### Speech
 
 
 
-### Reinforcement Learning
+
