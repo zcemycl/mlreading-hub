@@ -35,7 +35,7 @@
 * [Term Frequency Inverse Document Frequency](notes/nlp_TFIDF.ipynb)
 * [Embeddings/Word Analogy](notes/nlp_Embeddings.ipynb)
 * [Bag-of-words/Text Classification](notes/nlp_Bag-of-words.ipynb)
-* HMMs-POS
+* [HMMs-Part of Speech Tagging](notes/nlp_HMMs-POS.ipynb)
 * [Seq2seq Hierarchical Labels Classification](https://github.com/zcemycl/seq2seq-labelladder)
 
 ### Computer Vision
