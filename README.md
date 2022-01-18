@@ -32,6 +32,7 @@
 * Restricted Boltzmann Machines
 
 ### NLP
+* [Term Frequency Inverse Document Frequency](notes/nlp_TFIDF.ipynb)
 * [Seq2seq Hierarchical Labels Classification](https://github.com/zcemycl/seq2seq-labelladder)
 
 ### Computer Vision
