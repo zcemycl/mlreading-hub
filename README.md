@@ -35,6 +35,11 @@
 * [Term Frequency Inverse Document Frequency](notes/nlp_TFIDF.ipynb)
 * [Embeddings/Word Analogy](notes/nlp_Embeddings.ipynb)
 * [Bag-of-words/Text Classification](notes/nlp_Bag-of-words.ipynb)
+* [Bigrams Language Models](notes/nlp_Bigrams-Language-Models.ipynb)
+* Logistic Regression/Neural Bigram/Gradient Descent
+* Bigrams with Neural Network
+* CBOW/Skip-Gram/Negative Sampling
+* Matrix Factorization
 * [HMMs-Part of Speech Tagging](notes/nlp_HMMs-POS.ipynb)
 * [Seq2seq Hierarchical Labels Classification](https://github.com/zcemycl/seq2seq-labelladder)
 
@@ -56,6 +61,7 @@
 * [Monte Carlo Methods/Blackjack](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/blackjack.ipynb)
 * [SARSA](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/sarsa.ipynb)
 * [Q-Learning](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/q-learning.ipynb)
+* Twin Delayed DDPG
 
 ### Optimization
 
