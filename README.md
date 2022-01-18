@@ -33,6 +33,9 @@
 
 ### NLP
 * [Term Frequency Inverse Document Frequency](notes/nlp_TFIDF.ipynb)
+* [Embeddings/Word Analogy](notes/nlp_Embeddings.ipynb)
+* [Bag-of-words/Text Classification](notes/nlp_Bag-of-words.ipynb)
+* HMMs-POS
 * [Seq2seq Hierarchical Labels Classification](https://github.com/zcemycl/seq2seq-labelladder)
 
 ### Computer Vision
@@ -58,6 +61,6 @@
 
 ### Speech
 
-
+### Graph Neural Network
 
 
