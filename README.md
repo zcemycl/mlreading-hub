@@ -37,7 +37,7 @@
 * [Bag-of-words/Text Classification](notes/nlp_Bag-of-words.ipynb)
 * [Bigrams Language Models](notes/nlp_Bigrams-Language-Models.ipynb)
 * [Logistic Regression/Neural Bigram/Gradient Descent](notes/nlp_Neural-Bigram.ipynb)
-* Bigrams with Neural Network
+* [Bigrams with Autoencoder](notes/nlp_Bigram-Autoencoder.ipynb)
 * CBOW/Skip-Gram/Negative Sampling
 * Matrix Factorization
 * [HMMs-Part of Speech Tagging](notes/nlp_HMMs-POS.ipynb)
