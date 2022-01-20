@@ -36,7 +36,7 @@
 * [Embeddings/Word Analogy](notes/nlp_Embeddings.ipynb)
 * [Bag-of-words/Text Classification](notes/nlp_Bag-of-words.ipynb)
 * [Bigrams Language Models](notes/nlp_Bigrams-Language-Models.ipynb)
-* Logistic Regression/Neural Bigram/Gradient Descent
+* [Logistic Regression/Neural Bigram/Gradient Descent](notes/nlp_Neural-Bigram.ipynb)
 * Bigrams with Neural Network
 * CBOW/Skip-Gram/Negative Sampling
 * Matrix Factorization
