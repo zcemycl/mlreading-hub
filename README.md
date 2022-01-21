@@ -39,7 +39,7 @@
 * [Logistic Regression/Neural Bigram/Gradient Descent](notes/nlp_Neural-Bigram.ipynb)
 * [Bigrams with Autoencoder](notes/nlp_Bigram-Autoencoder.ipynb)
 * CBOW/Skip-Gram/Negative Sampling
-* Matrix Factorization
+* [Glove/Matrix Factorization](notes/nlp_Glove-Matrix-Factorization.ipynb)
 * [HMMs-Part of Speech Tagging](notes/nlp_HMMs-POS.ipynb)
 * [Seq2seq Hierarchical Labels Classification](https://github.com/zcemycl/seq2seq-labelladder)
 
