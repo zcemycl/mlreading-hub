@@ -41,7 +41,9 @@
 * CBOW/Skip-Gram/Negative Sampling
 * [Glove/Matrix Factorization](notes/nlp_Glove-Matrix-Factorization.ipynb)
 * [HMMs-Part of Speech Tagging](notes/nlp_HMMs-POS.ipynb)
-* [Bidirectional-LSTM-Named Entity Recognition](notes/nlp_Named-Entity-Recognition-RNN.ipynb)
+* [Bidirectional-LSTM-Named Entity Recognition/F1-Score](notes/nlp_Named-Entity-Recognition-RNN.ipynb)
+* [Parse Tree](notes/nlp_Recurrent-Tree-Neural-Network.ipynb)
+* Recurrent Tree Neural Network
 * [Seq2seq Hierarchical Labels Classification](https://github.com/zcemycl/seq2seq-labelladder)
 
 ### Computer Vision
