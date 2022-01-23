@@ -43,7 +43,7 @@
 * [HMMs-Part of Speech Tagging](notes/nlp_HMMs-POS.ipynb)
 * [Bidirectional-LSTM-Named Entity Recognition/F1-Score](notes/nlp_Named-Entity-Recognition-RNN.ipynb)
 * [Parse Tree](notes/nlp_Recurrent-Tree-Neural-Network.ipynb)
-* Recurrent Tree Neural Network
+* [TreeNN/Recursive(not Recurrent)NN/Sentiment Analysis/Binary Tree](notes/nlp_Recurrent-Tree-Neural-Network.ipynb)
 * [Seq2seq Hierarchical Labels Classification](https://github.com/zcemycl/seq2seq-labelladder)
 
 ### Computer Vision
