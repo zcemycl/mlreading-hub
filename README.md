@@ -26,7 +26,7 @@
 * [Smoothing/Wilson Lower Bound](notes/rs_Rate-Popularity.ipynb)
 * [Conjugate Priors/Online Learning](notes/rs_Conjugate-Prior.ipynb)
 * Bayesian A/B Testings
-* Casual Inference 
+* Causal Inference 
 * [Page Rank](notes/rs_Page-Rank.ipynb)
 * [User-User Collaborative Filtering](notes/rs_User-User-Collaborative-Filtering.ipynb)
 * Item-Item Collaborative Filtering
