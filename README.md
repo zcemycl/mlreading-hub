@@ -1,6 +1,9 @@
 # Collections of Machine Learning Readings
 
 ### Probabilistic Machine Learning
+* [Principal Component Analysis](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Machine%20Learning%20A%20Probabilistic%20Perspective/12LatentLinearModels/F12.5/12.5pcaImageDemo.ipynb)
+* [Independent Component Analysis](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Machine%20Learning%20A%20Probabilistic%20Perspective/12LatentLinearModels/F12.20/12.20icaDemo.ipynb)
+* [Naive Bayes](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Machine%20Learning%20A%20Probabilistic%20Perspective/3GMDD/F3.8/3.8naiveBayesBowDemo.ipynb)
 * [Acceptance Rejection Sampling](notes/Acceptance-Rejection.ipynb)
 * [Inverse Transform](notes/Inverse-Transform-Sampling.ipynb)
 * [Importance Sampling](notes/ImportanceSampling.ipynb)
@@ -22,6 +25,8 @@
 ### Recommendation System
 * [Smoothing/Wilson Lower Bound](notes/rs_Rate-Popularity.ipynb)
 * [Conjugate Priors/Online Learning](notes/rs_Conjugate-Prior.ipynb)
+* Bayesian A/B Testings
+* Casual Inference 
 * [Page Rank](notes/rs_Page-Rank.ipynb)
 * [User-User Collaborative Filtering](notes/rs_User-User-Collaborative-Filtering.ipynb)
 * Item-Item Collaborative Filtering
@@ -65,6 +70,9 @@
 * [SARSA](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/sarsa.ipynb)
 * [Q-Learning](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/q-learning.ipynb)
 * Twin Delayed DDPG
+
+### Model Intrepretability
+* [Local Interpretable Model-agnostic Explanations](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/LIME/LIME.ipynb)
 
 ### Optimization
 
