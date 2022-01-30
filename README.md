@@ -25,8 +25,8 @@
 ### Recommendation System
 * [Smoothing/Wilson Lower Bound](notes/rs_Rate-Popularity.ipynb)
 * [Conjugate Priors/Online Learning](notes/rs_Conjugate-Prior.ipynb)
-* Bayesian A/B Testings
-* Causal Inference 
+* [Bayesian A/B Testings](notes/rs_ABtestings.ipynb)
+* [Causal Inference](notes/rs_Causal-Inference.ipynb)
 * [Page Rank](notes/rs_Page-Rank.ipynb)
 * [User-User Collaborative Filtering](notes/rs_User-User-Collaborative-Filtering.ipynb)
 * Item-Item Collaborative Filtering
