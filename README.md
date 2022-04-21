@@ -74,6 +74,14 @@
 ### Model Intrepretability
 * [Local Interpretable Model-agnostic Explanations](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/LIME/LIME.ipynb)
 
+### Model Compression
+* Pruning
+* Quantization
+* Low-rank approximation
+* Knowledge Distillation
+* Neural Architecture Search
+
+
 ### Optimization
 
 ### Speech
