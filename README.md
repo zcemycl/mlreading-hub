@@ -20,6 +20,7 @@
 * [HMMs/Baum-Welch algorithm](notes/EM_HMM_Sequence.ipynb) 
 * GMM-HMMs
 * [Bayesian Polynomial Regression](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Probabilistic%20Machine%20Learning/Introduction%20to%20Probabilistic%20Machine%20Learning/Bayesian%20inference%20and%20prediction%20with%20finite%20regression%20models.ipynb)
+* Few Shot Learning
 * Gaussian Process
 
 ### Recommendation System
@@ -56,7 +57,9 @@
 * [2D Homography](https://github.com/zcemycl/Robotics/blob/master/Perception/Logo%20Projection/LogoProjection.ipynb)
 * [Arm Camera Calibration](https://github.com/zcemycl/Robotics/blob/master/DobotMagic/calibration/utils.py)
 * Single Shot Multibox detector
-* Segmantic Segmantation -- Unet
+* You Only Look Once (YOLO)
+* Segmantic Segmantation/Fully Convolution Network
+* Segmantic Segmantation/Unet
 * [Variational Autoencoder](https://github.com/zcemycl/self-work/blob/master/VAE/VAE2.ipynb)
 * [Generative Adversarial Network](https://github.com/zcemycl/Matlab-GAN/blob/master/GAN/GAN.m)
 * [InfoGAN](https://github.com/zcemycl/Matlab-GAN/blob/master/InfoGAN/InfoGAN.m)
