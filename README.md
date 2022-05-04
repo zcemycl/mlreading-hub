@@ -20,7 +20,7 @@
 * [HMMs/Baum-Welch algorithm](notes/EM_HMM_Sequence.ipynb) 
 * GMM-HMMs
 * [Bayesian Polynomial Regression](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Probabilistic%20Machine%20Learning/Introduction%20to%20Probabilistic%20Machine%20Learning/Bayesian%20inference%20and%20prediction%20with%20finite%20regression%20models.ipynb)
-* Few Shot Learning
+* Few Shot Learning/Siamese Network
 * Gaussian Process
 
 ### Recommendation System
@@ -60,6 +60,7 @@
 * You Only Look Once (YOLO)
 * Segmantic Segmantation/Fully Convolution Network
 * Segmantic Segmantation/Unet
+* Human Pose Estimation/Stacked Hourglass Network
 * [Variational Autoencoder](https://github.com/zcemycl/self-work/blob/master/VAE/VAE2.ipynb)
 * [Generative Adversarial Network](https://github.com/zcemycl/Matlab-GAN/blob/master/GAN/GAN.m)
 * [InfoGAN](https://github.com/zcemycl/Matlab-GAN/blob/master/InfoGAN/InfoGAN.m)
