@@ -76,6 +76,7 @@
 * [SARSA](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/sarsa.ipynb)
 * [Q-Learning](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/q-learning.ipynb)
 * Twin Delayed DDPG
+* Policy Gradient
 
 ### Model Intrepretability
 * [Local Interpretable Model-agnostic Explanations](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/LIME/LIME.ipynb)
@@ -94,4 +95,9 @@
 
 ### Graph Neural Network
 
-
+### Follow-ups
+* Support Vector Machine + Lagrange Multipliers
+* Non-negative Matrix Factorisation
+* Kalman Filter
+* Lasso Fit
+* Autoregressive Moving Average Process
