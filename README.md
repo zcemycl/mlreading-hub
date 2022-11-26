@@ -1,5 +1,14 @@
 # Collections of Machine Learning Readings [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzcemycl%2Fmlreading-hub&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### Machine Learning
+* Decision Tree
+* Random Forest
+* Graident Boosting Machines
+* Ridge Regression
+* Lasso Regression
+* Autoregressive Moving Average Process
+* Support Vector Machine + Lagrange Multipliers
+
 ### Probabilistic Machine Learning
 * [Principal Component Analysis](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Machine%20Learning%20A%20Probabilistic%20Perspective/12LatentLinearModels/F12.5/12.5pcaImageDemo.ipynb)
 * [Independent Component Analysis](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Machine%20Learning%20A%20Probabilistic%20Perspective/12LatentLinearModels/F12.20/12.20icaDemo.ipynb)
@@ -12,6 +21,7 @@
 * Metropolis-Hastings
 * Gibbs Sampling
 * Hamitonian Monte Carlo (HMC)
+* Kalman Filter
 * Particle Filter (SMC)
 * [K Means](notes/K-Means.ipynb)
 * [Gaussian Mixture Models/EM algorithm](notes/EM-GMM2.ipynb)
@@ -75,6 +85,8 @@
 * [Monte Carlo Methods/Blackjack](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/blackjack.ipynb)
 * [SARSA](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/sarsa.ipynb)
 * [Q-Learning](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/q-learning.ipynb)
+* Deep Q Learning
+* Deep Convolutional Q Learning
 * Twin Delayed DDPG
 * Policy Gradient
 
@@ -90,14 +102,12 @@
 
 
 ### Optimization
+* Gradient Descent
+* Sub-gradient Descent
+* Coordinate Descent
 
 ### Speech
 
 ### Graph Neural Network
 
 ### Follow-ups
-* Support Vector Machine + Lagrange Multipliers
-* Non-negative Matrix Factorisation
-* Kalman Filter
-* Lasso Fit
-* Autoregressive Moving Average Process
