@@ -10,6 +10,7 @@
 * Support Vector Machine + Lagrange Multipliers
 
 ### Probabilistic Machine Learning
+* [Weight Distribution Contours](notes/pml/Distribution-Contour.ipynb)
 * [Principal Component Analysis](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Machine%20Learning%20A%20Probabilistic%20Perspective/12LatentLinearModels/F12.5/12.5pcaImageDemo.ipynb)
 * [Independent Component Analysis](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Machine%20Learning%20A%20Probabilistic%20Perspective/12LatentLinearModels/F12.20/12.20icaDemo.ipynb)
 * [Naive Bayes](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/Machine%20Learning%20A%20Probabilistic%20Perspective/3GMDD/F3.8/3.8naiveBayesBowDemo.ipynb)
@@ -80,6 +81,7 @@
 
 ### Reinforcement Learning
 * [Multi-Arm Bandits](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/rlread.ipynb)
+* Genetic Algorithm
 * [Policy Iteration](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/PolicyIteration.ipynb)
 * [Value Iteration](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/ValueIteration.ipynb)
 * [Monte Carlo Methods/Blackjack](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/blackjack.ipynb)
