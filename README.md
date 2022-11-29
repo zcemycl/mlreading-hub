@@ -4,7 +4,7 @@
 * Decision Tree
 * Random Forest
 * Graident Boosting Machines
-* Ridge Regression
+* [Ridge Regression](notes/ml/Ridge-Regression.ipynb)
 * Lasso Regression
 * Autoregressive Moving Average Process
 * Support Vector Machine + Lagrange Multipliers
@@ -104,7 +104,7 @@
 
 
 ### Optimization
-* Gradient Descent
+* [Gradient Descent]((notes/ml/Ridge-Regression.ipynb))
 * Sub-gradient Descent
 * Coordinate Descent
 
