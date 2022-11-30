@@ -3,9 +3,9 @@
 ### Machine Learning
 * Decision Tree
 * Random Forest
-* Graident Boosting Machines
+* Gradient Boosting Machines
 * [Ridge Regression](notes/ml/Ridge-Regression.ipynb)
-* Lasso Regression
+* [Lasso Regression](notes/ml/Lasso-Regression.ipynb)
 * Autoregressive Moving Average Process
 * Support Vector Machine + Lagrange Multipliers
 
@@ -106,7 +106,7 @@
 ### Optimization
 * [Gradient Descent]((notes/ml/Ridge-Regression.ipynb))
 * Sub-gradient Descent
-* Coordinate Descent
+* [Coordinate Descent]((notes/ml/Lasso-Regression.ipynb))
 
 ### Speech
 
