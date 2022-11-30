@@ -104,9 +104,9 @@
 
 
 ### Optimization
-* [Gradient Descent]((notes/ml/Ridge-Regression.ipynb))
+* [Gradient Descent](notes/ml/Ridge-Regression.ipynb)
 * Sub-gradient Descent
-* [Coordinate Descent]((notes/ml/Lasso-Regression.ipynb))
+* [Coordinate Descent](notes/ml/Lasso-Regression.ipynb)
 
 ### Speech
 
