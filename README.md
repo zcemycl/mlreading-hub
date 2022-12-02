@@ -1,7 +1,7 @@
 # Collections of Machine Learning Readings [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzcemycl%2Fmlreading-hub&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Machine Learning
-* [Decision Tree](notes/ml/Decision-Tree.ipynb)
+* [ID3/C4.5 Decision Tree](notes/ml/Decision-Tree.ipynb)
 * Random Forest
 * Gradient Boosting Machines
 * [Ridge Regression](notes/ml/Ridge-Regression.ipynb)
