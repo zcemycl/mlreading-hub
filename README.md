@@ -2,6 +2,7 @@
 
 ### Machine Learning
 * [ID3/C4.5 Decision Tree](notes/ml/Decision-Tree.ipynb)
+* [Regression Tree](notes/ml/Regression-Tree.ipynb)
 * Random Forest
 * Gradient Boosting Machines
 * [Ridge Regression](notes/ml/Ridge-Regression.ipynb)
