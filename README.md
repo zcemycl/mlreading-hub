@@ -7,6 +7,9 @@
 * Gradient Boosting Machines
 * [Ridge Regression](notes/ml/Ridge-Regression.ipynb)
 * [Lasso Regression](notes/ml/Lasso-Regression.ipynb)
+* Multiple Linear Regression
+* Principal Component Regression
+* [Time Series Linear Regression](notes/ml/Time-Series-Linear-Regression.ipynb)
 * Autoregressive Moving Average Process
 * Support Vector Machine + Lagrange Multipliers
 
