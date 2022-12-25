@@ -48,7 +48,7 @@
 * Item-Item Collaborative Filtering
 * [Matrix Factorization/Alternating Least Squares](notes/rs/rs_Matrix-Factorization.ipynb)
 * Bayesian Matrix Factorization/Gibbs Sampling
-* [Embeddings](notes/rs/rs_Embedding.ipynb)/[Embeddings-DNN](notes/rs/rs_Deep-Neural-Network.ipynb)/[Inception-Residual-Network](notes/rs-Residual-Learning.ipynb)
+* [Embeddings](notes/rs/rs_Embedding.ipynb)/[Embeddings-DNN](notes/rs/rs_Deep-Neural-Network.ipynb)/[Inception-Residual-Network](notes/rs/rs-Residual-Learning.ipynb)
 * Denoising Variational Autoencoders
 * Restricted Boltzmann Machines
 
