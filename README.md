@@ -66,6 +66,8 @@
 * [Parse Tree](notes/nlp/nlp_Recurrent-Tree-Neural-Network.ipynb)
 * [TreeNN/Recursive(not Recurrent)NN/Sentiment Analysis/Binary Tree](notes/nlp/nlp_Recurrent-Tree-Neural-Network.ipynb)
 * [Seq2seq Hierarchical Labels Classification](https://github.com/zcemycl/seq2seq-labelladder)
+* Transformer
+* GPT
 
 ### Computer Vision
 * [Calibration](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/calibration.ipynb)
@@ -82,6 +84,8 @@
 * [Pix2pix](https://github.com/zcemycl/Matlab-GAN/blob/master/Pix2Pix/PIX2PIX.m)
 * [CycleGAN](https://github.com/zcemycl/Matlab-GAN/blob/master/CycleGAN/CycleGAN.m)
 * [Multi-task Network with Room-boundary-Guided Attention](https://github.com/zcemycl/TF2DeepFloorplan)
+* Diffusion Model
+* CLIP
 
 ### Reinforcement Learning
 * [Multi-Arm Bandits](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/rlread.ipynb)
