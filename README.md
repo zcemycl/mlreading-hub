@@ -12,7 +12,7 @@
 * Principal Component Regression
 * [Time Series Linear Regression](notes/ml/Time-Series-Linear-Regression.ipynb)
 * Autoregressive Moving Average Process
-* Support Vector Machine + Lagrange Multipliers
+* [Support Vector Machine + Lagrange Multipliers](notes/ml/Support-Vector-Machine.ipynb)
 
 ### Probabilistic Machine Learning
 * [Weight Distribution Contours](notes/pml/Distribution-Contour.ipynb)
