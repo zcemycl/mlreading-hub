@@ -100,6 +100,7 @@
 * Deep Convolutional Q Learning
 * Twin Delayed DDPG
 * Policy Gradient
+* Monte Carlo Tree Search
 
 ### Model Intrepretability
 * [Local Interpretable Model-agnostic Explanations](https://github.com/zcemycl/ProbabilisticPerspectiveMachineLearning/blob/master/LIME/LIME.ipynb)
