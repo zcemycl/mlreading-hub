@@ -71,6 +71,7 @@
 * GPT
 
 ### Computer Vision
+* [Symbol Count with Edge Detection](notes/cv/convolution_connected_edge.ipynb)
 * [Calibration](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/calibration.ipynb)
 * [2D Homography](https://github.com/zcemycl/Robotics/blob/master/Perception/Logo%20Projection/LogoProjection.ipynb)
 * [Arm Camera Calibration](https://github.com/zcemycl/Robotics/blob/master/DobotMagic/calibration/utils.py)
