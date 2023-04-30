@@ -80,6 +80,7 @@
 * Segmantic Segmantation/Fully Convolution Network
 * Segmantic Segmantation/Unet
 * Human Pose Estimation/Stacked Hourglass Network
+* Neural Radiance Fields (NeRF)
 * [Variational Autoencoder](https://github.com/zcemycl/self-work/blob/master/VAE/VAE2.ipynb)
 * [Generative Adversarial Network](https://github.com/zcemycl/Matlab-GAN/blob/master/GAN/GAN.m)
 * [InfoGAN](https://github.com/zcemycl/Matlab-GAN/blob/master/InfoGAN/InfoGAN.m)
