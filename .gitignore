@@ -343,3 +343,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+tt.ipynb 
+03*.ipynb
+lstm*.ipynb
+notes/ml/lstm_vs_garch.ipynb
