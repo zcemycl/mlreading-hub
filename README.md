@@ -81,7 +81,7 @@
 * Segmantic Segmantation/Fully Convolution Network
 * Segmantic Segmantation/Unet
 * Human Pose Estimation/Stacked Hourglass Network
-* Neural Radiance Fields (NeRF)
+* [Neural Radiance Fields (NeRF)](notes/cv/nerf/)
 * [Variational Autoencoder](https://github.com/zcemycl/self-work/blob/master/VAE/VAE2.ipynb)
 * [Generative Adversarial Network](https://github.com/zcemycl/Matlab-GAN/blob/master/GAN/GAN.m)
 * [InfoGAN](https://github.com/zcemycl/Matlab-GAN/blob/master/InfoGAN/InfoGAN.m)
@@ -99,10 +99,13 @@
 * [Monte Carlo Methods/Blackjack](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/blackjack.ipynb)
 * [SARSA](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/sarsa.ipynb)
 * [Q-Learning](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/q-learning.ipynb)
+* N step boostrapping
 * Deep Q Learning
 * Deep Convolutional Q Learning
 * Twin Delayed DDPG
 * Policy Gradient
+* Generalized Advantage Estimation
+* Trust Region Policy Optimization
 * Monte Carlo Tree Search
 
 ### Model Intrepretability
