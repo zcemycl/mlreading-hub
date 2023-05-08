@@ -351,3 +351,4 @@ final.ipynb
 *.zip
 __MACOSX
 fox/
+model_*
