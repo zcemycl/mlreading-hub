@@ -93,7 +93,7 @@
 
 ### Reinforcement Learning
 * [Multi-Arm Bandits](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/rlread.ipynb)
-* Genetic Algorithm
+* [Genetic Algorithm](notes/rl/traveling_salesman.py)
 * [Policy Iteration](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/PolicyIteration.ipynb)
 * [Value Iteration](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/ValueIteration.ipynb)
 * [Monte Carlo Methods/Blackjack](https://github.com/zcemycl/zcemycl.github.io/blob/master/resources/blackjack.ipynb)
