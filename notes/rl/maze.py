@@ -43,6 +43,13 @@ class Game:
             4: [255, 0, 0, self.box_size],
             5: [0, 0, 255, self.box_size],
         }
+        self.state2reward = {
+            1: -3,
+            2: -10,
+            3: 1000,
+            4: -20000,
+            5: -20
+        }
         pygame.init()
         self.hover_state = 0
         self.startOpt = False

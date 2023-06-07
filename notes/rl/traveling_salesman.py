@@ -5,6 +5,7 @@ from typing import Dict, List, Tuple
 
 import numpy as np
 import pygame
+import time
 
 
 class Gene(object):
@@ -121,6 +122,8 @@ class GeneticAlgo:
 
 
 class Game:
+    SHOW_BEST_N = 5
+
     def __init__(self, size=20, survive_ratio=0.5, mix_ratio=0.25):
         self.h = 600
         self.w = 800
@@ -201,6 +204,27 @@ class Game:
                 width=2,
             )
 
+    def draw_dest(self):
+        for coor in self.coordinates:
+            pygame.draw.circle(self.win, (0, 200, 200), coor, 5)
+
+    def _draw_policy(self, order, i=0):
+        self.reset_bg()
+        self.draw_dest()
+        if self.startOpt:
+            self.show_dist(self.policy.population[i].dist)
+        # order = self.policy.population[i].seq
+        self.draw_travel_routes(order)
+        self.show_fps()
+        self.show_instructions()
+
+        pygame.display.flip()
+        self.clock.tick()
+
+    def draw_n_policies(self):
+        for i in range(self.SHOW_BEST_N):
+            self._draw_policy(self.policy.population[i].seq, i=i)
+
     def run(self):
         while True:
             for event in pygame.event.get():
@@ -209,21 +233,12 @@ class Game:
                     sys.exit(0)
 
             self.get_player_control()
-            self.reset_bg()
-            for coor in self.coordinates:
-                pygame.draw.circle(self.win, (0, 200, 200), coor, 5)
+            
             if not self.startOpt:
-                order = list(range(len(self.coordinates)))
+                self._draw_policy(list(range(len(self.coordinates))))
             else:
                 self.policy.step()
-                order = self.policy.population[0].seq
-                self.show_dist(self.policy.population[0].dist)
-            self.draw_travel_routes(order)
-            self.show_fps()
-            self.show_instructions()
-
-            pygame.display.flip()
-            self.clock.tick()
+                self.draw_n_policies()
 
         pygame.quit()
 
