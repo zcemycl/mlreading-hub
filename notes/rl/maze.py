@@ -50,6 +50,14 @@ class Game:
             4: -20000,
             5: -20
         }
+        self.statename = {
+            0: 'empty', 
+            1: 'start',
+            2: 'end',
+            3: 'wall',
+            4: 'fire',
+            5: 'water'
+        }
         pygame.init()
         self.hover_state = 0
         self.startOpt = False
@@ -84,6 +92,27 @@ class Game:
             (self.box_size * self.nx, 0, self.w, self.h),
         )
 
+    def show_user_info(self):
+        font = pygame.font.SysFont("Arial", 10)
+        texts = [
+            "Change state selection with key 0-5",
+            "Click on the grid to change its state",
+        ]
+        for i, text in enumerate(texts):
+            screen_text = font.render(text, 1, self.font_color)
+            self.win.blit(screen_text, (10, 15*(i+1)))
+        texts = [f"{i}:{self.statename[i]}" for i in self.statename]
+        for j, text in enumerate(texts):
+            font_color = pygame.Color(*self.state2color_width[j][:3])
+            screen_text = font.render(text, 1, font_color)
+            self.win.blit(screen_text, (self.w - 50, 10*j))
+
+        font2 = pygame.font.SysFont("Arial", 20)
+        font_color = pygame.Color(*self.state2color_width[self.hover_state][:3])
+        screen_text = font.render(f"Current: {self.hover_state}",
+            1, font_color)
+        self.win.blit(screen_text, (self.w - 50, 10*(j+1)))
+        
     def show_fps(self):
         font = pygame.font.SysFont("Arial", 18)
         fps = str(int(self.clock.get_fps()))
@@ -149,6 +178,7 @@ class Game:
                     self.win, color_width[:3], button.rect, color_width[3]
                 )
             self.show_fps()
+            self.show_user_info()
 
             pygame.display.flip()
             self.clock.tick()
