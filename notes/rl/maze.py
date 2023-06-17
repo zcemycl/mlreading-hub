@@ -8,12 +8,20 @@ import pygame
 
 
 class GridBox:
+    SMALL_BOX_RATIO = 0.7
     def __init__(self, x: int, y: int, w: int, h: int, i: int, j: int):
         self.x = x
         self.y = y
         self.w = w
         self.h = h
         self.rect = pygame.Rect(x, y, w, h)
+        start_ratio = (1 - self.SMALL_BOX_RATIO)/2
+        self.rect2 = pygame.Rect(x+start_ratio*w, y+start_ratio*h,
+            self.SMALL_BOX_RATIO*w, self.SMALL_BOX_RATIO*h)
+        self.l_simplex = [(x,y), (x+w//2, y+h//2), (x, y+h)]
+        self.r_simplex = [(x+w, y), (x+w//2, y+h//2), (x+w, y+h)]
+        self.t_simplex = [(x,y), (x+w//2, y+h//2), (x+w, y)]
+        self.b_simplex = [(x,y+h), (x+w//2, y+h//2), (x+w, y+h)]
         self.i = i
         self.j = j
 
@@ -26,6 +34,7 @@ class Game:
 
     def __init__(self):
         self.box_size = min(self.w // self.nx, self.h // self.ny)
+        print(self.box_size)
         self.maze = np.zeros((self.nx, self.ny))
         # -1: hover (green)
         # 0: available (white)
@@ -107,7 +116,7 @@ class Game:
             screen_text = font.render(text, 1, font_color)
             self.win.blit(screen_text, (self.w - 50, 10*j))
 
-        font2 = pygame.font.SysFont("Arial", 20)
+        font2 = pygame.font.SysFont("Arial", 50)
         font_color = pygame.Color(*self.state2color_width[self.hover_state][:3])
         screen_text = font.render(f"Current: {self.hover_state}",
             1, font_color)
@@ -177,6 +186,27 @@ class Game:
                 pygame.draw.rect(
                     self.win, color_width[:3], button.rect, color_width[3]
                 )
+                # pygame.draw.rect(
+                #     self.win, color_width[:3], button.rect, 3
+                # )
+                if self.startOpt:
+                    pygame.draw.polygon(self.win, (0, 255, 255), 
+                        button.l_simplex)
+                    pygame.draw.polygon(self.win, (0, 0, 0), 
+                        button.l_simplex, width=1)
+                    pygame.draw.polygon(self.win, (0, 255, 255), 
+                        button.r_simplex)  
+                    pygame.draw.polygon(self.win, (0, 0, 0), 
+                        button.r_simplex, width=1)
+                    pygame.draw.polygon(self.win, (0, 255, 255), 
+                        button.t_simplex)  
+                    pygame.draw.polygon(self.win, (0, 0, 0), 
+                        button.t_simplex, width=1)
+                    pygame.draw.polygon(self.win, (0, 255, 255), 
+                        button.b_simplex)  
+                    pygame.draw.polygon(self.win, (0, 0, 0), 
+                        button.b_simplex, width=1)
+                    pygame.draw.rect(self.win, color_width[:3], button.rect2)
             self.show_fps()
             self.show_user_info()
 
