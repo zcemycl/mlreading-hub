@@ -6,6 +6,9 @@ from typing import Dict, List, Tuple
 import numpy as np
 import pygame
 
+gamma = .9
+alpha = .75
+nEpochs = 1000
 
 class GridBox:
     SMALL_BOX_RATIO = 0.7
