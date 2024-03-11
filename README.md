@@ -101,6 +101,7 @@
 * [SARSA](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/sarsa.ipynb)
 * [Q-Learning](https://github.com/zcemycl/Robotics/blob/master/Reinforcemnet%20Learning/q-learning.ipynb)
 * N step boostrapping
+* Contextual Bandit
 * Deep Q Learning
 * Deep Convolutional Q Learning
 * Twin Delayed DDPG
