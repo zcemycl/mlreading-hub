@@ -53,6 +53,8 @@
 * [Embeddings](notes/rs/rs_Embedding.ipynb)/[Embeddings-DNN](notes/rs/rs_Deep-Neural-Network.ipynb)/[Inception-Residual-Network](notes/rs/rs-Residual-Learning.ipynb)
 * Denoising Variational Autoencoders
 * Restricted Boltzmann Machines
+* Two Tower Model
+* Wide & Deep Learning
 
 ### NLP
 * [Term Frequency Inverse Document Frequency](notes/nlp/nlp_TFIDF.ipynb)
@@ -126,6 +128,8 @@
 * [Gradient Descent](notes/ml/Ridge-Regression.ipynb)
 * Sub-gradient Descent
 * [Coordinate Descent](notes/ml/Lasso-Regression.ipynb)
+
+### AI Fairness
 
 ### Speech
 
